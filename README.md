@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Yuraj Kharche</h2>
-<h3 align="center">An IT Master's student trying to cross the CS road, to train the chicken in Data Science, build it a backend, and automate its crossing with Machine Learning.</h3>
+<h2 align="left">Hi 👋, there</h2>
+<h3 align="left">An IT Master's student trying to cross the CS road, to train the chicken in Data Science, build it a backend, and automate its crossing with Machine Learning.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yurajk00&label=Profile%20views&color=0e75b6&style=flat" alt="yurajk00" /> 
@@ -54,14 +54,8 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yurajk00&show_icons=true&locale=en&layout=compact" alt="yurajk00" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yurajk00&show_icons=true&locale=en" alt="yurajk00" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yurajk00&" alt="yurajk00" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurajk00&show_icons=true&locale=en&layout=compact" alt="yurajk00" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yurajk00&show_icons=true&locale=en" alt="yurajk00" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurajk00&" alt="yurajk00" style="margin-right: 10px;" />
+</div>
