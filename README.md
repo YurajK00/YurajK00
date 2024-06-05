@@ -1,8 +1,10 @@
-<p align="center" style = "font-size: 20px;" >Hi 👋, There </p>
+<p align="center" style="font-size: 20px;" >Hi 👋, There </p>
 
 <h1 align="left">About Me:</h1>
 <p align="left" style="font-size: 14px;">
-  An IT Master's student at the University of Auckland, with a Bachelor's degree in Physics from India. My passion for data science, machine learning, and backend development has driven me to explore the tech world deeply. I’ve managed diverse data science projects, from customer churn prediction to house price forecasting. Additionally, I enjoy inspiring young minds through scientific outreach, organizing workshops and exhibitions. Currently, I balance my studies with my role as an Operations Team Member at Bunnings in Auckland. I'm proficient in various programming languages and tools, including Python, SQL, Node.js, and more. I'm continuously expanding my knowledge in machine learning and big data. When I'm not coding or studying, I indulge in my love for anime, with "One Piece" being my ultimate favorite. Let's connect and explore the fascinating world of technology together!
+I'm currently pursuing a Master's degree in Information Technology at the University of Auckland, with a Bachelor's degree in Physics from India.I am transitioning to a career in Data Science, with proficiency in Python, SQl, HTML, CSS, and JavaScript with using ML algorithms and tools like scikit learn and pandas. Addtionally serving as an Operations Team Member, I am further expanding my expertise in critical problem-solving, project management, and prompt decision-making. Excited to apply my technical and data - driven skills along with business acumen to new challenges in software development, contributing to projects that drive innovation and deliver tangible results.
+
+
 </p>
 
 <p align="center"> 
@@ -97,3 +99,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yurajk00&show_icons=true&locale=en" alt="yurajk00" style="margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurajk00&" alt="yurajk00" style="margin-right: 10px;" />
 </div>
+<br>
+<h1 align="left">Facts:</h1>
+<h3>✊ One Piece is Peak Fiction</h3>
+
+
